@@ -1,2 +1,2 @@
 # Matrix-Package
-Numerous matrix-based operations with Python
+This package includes matrix-operations like determinant, trace, inverse, frobenius-norm, saddle point etc.
