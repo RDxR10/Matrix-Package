@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 24 03:14:13 2018
 
-@author: Rishi
+
 """
 import matinput as m
 m1_inv = m.np.linalg.inv(m.mat1)
