@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 24 03:32:17 2018
 
-@author: Rishi
+
 """
 import matinput as m
 t1=m.np.trace(m.mat1)
