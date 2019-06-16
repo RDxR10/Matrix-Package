@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 24 03:10:46 2018
 
-@author: Rishi
+
 """
 
 #Take matrix size as input
