@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 24 03:25:32 2018
 
-@author: Rishi
+
 """
 import matinput as m
 d1 = m.np.linalg.det(m.mat1)
