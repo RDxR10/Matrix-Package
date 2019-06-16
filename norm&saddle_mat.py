@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 24 03:50:30 2018
 
-@author: Rishi
+
 """
 
 import matinput as m
